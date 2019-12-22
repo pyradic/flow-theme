@@ -11,4 +11,6 @@ use Anomaly\Streams\Platform\Addon\Theme\Theme;
  * @author Ryan Thompson <ryan@pyrocms.com>
  */
 class FlowTheme extends Theme
-{ }
+{
+
+}
